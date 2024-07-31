@@ -1,0 +1,9 @@
+###
+POST http://localhost:8080/ethnicity/add 
+Content-Type: application/json
+
+{
+  "id": 4,
+  "name": "Sousou",
+  "region": "LOW_GUINEA"
+}
